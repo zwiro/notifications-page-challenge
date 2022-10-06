@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/notification-page-challenge-tW_p4Elow1)
+- Live Site URL: [Live Site](https://zwiro.github.io/notifications-page-challenge/)
 
 ## My process
 
